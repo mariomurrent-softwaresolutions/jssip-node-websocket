@@ -15,7 +15,7 @@ $ npm install jssip-node-websocket --save
 ## Requirements
 
 * [jssip](http://jssip.net) >= `v2.0.0`
-* Node.js >= `v20.0.0`
+* Node.js >= `v4.0.0`
 
 
 ## Usage
