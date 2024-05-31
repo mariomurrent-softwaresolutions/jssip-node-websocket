@@ -1,6 +1,7 @@
 {
-  "name": "jssip-node-websocket",
-  "version": "3.0.0",
+  "name": "@meecode/jssip-node-websocket",
+  "version": "4.0.2",
+  "private": false,
   "description": "JsSIP.Socket interface for the Node.js based on the websocket module",
   "main": "index.js",
   "repository": {
@@ -13,7 +14,7 @@
     "url": "https://github.com/versatica/jssip-node-websocket/issues"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=4.0.0"
   },
   "dependencies": {
     "debug": "^2.2.0",

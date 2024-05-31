@@ -3,3 +3,5 @@
 /NO_GIT/
 
 .idea/
+
+package-lock.json

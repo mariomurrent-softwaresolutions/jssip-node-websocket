@@ -1,4 +1,6 @@
-## jssip-node-websocket
+## @meecode/jssip-node-websocket based on `jssip-node-websocket
+
+`jssip-node-websocket` library based on Iñaki Baz Castillo ([@ibc](https://github.com/ibc/) at Github) repository with support for node versions >= 20.0.0
 
 `JsSIP.Socket` interface for Node.js based on the [websocket](https://www.npmjs.com/package/websocket) module.
 
@@ -8,7 +10,7 @@ The aim of this module is to provide [JsSIP](http://jssip.net) with WebSocket su
 ## Installation
 
 ```bash
-$ npm install jssip-node-websocket --save
+$ npm install @meecode/jssip-node-websocket --save
 ```
 
 
