@@ -2,8 +2,7 @@
 
 const debug = require('debug')('jssip-node-websocket');
 const debugerror =  require('debug')('jssip-node-websocket:ERROR');
-
-const parse = require('url').parse;
+const parse = require('url-parse');
 const W3CWebSocket = require('websocket').w3cwebsocket;
 
 class NodeWebSocket
