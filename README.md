@@ -15,9 +15,11 @@ $ npm install jssip-node-websocket --save
 ## Requirements
 
 * [jssip](http://jssip.net) >= `v2.0.0`
-* Node.js >= `v4.0.0` < `20.0.0`
+* Node.js >= `v4.0.0` < `v20.0.0`
 
-### Node >= `20.0.0`
+### Node >= `v20.0.0`
+
+Since Node `v20.0.0` the API for parsing URL has changed. To be compatible with Node `v20.0.0` and previous versions you can use the following package:
 
 [@meecode/jssip-node-websocket](https://www.npmjs.com/package/@meecode/jssip-node-websocket)
 
